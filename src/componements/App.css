@@ -43,3 +43,7 @@
   position: static;
   counter-reset:black;
 }
+
+.item{
+  border-radius: 3rem;
+}
